@@ -1,0 +1,8 @@
+.githubStats {
+    content: "";
+    display: block;
+    position: relative;
+    width: 166%;
+    height: 150px;
+    background-position: bottom;
+}
