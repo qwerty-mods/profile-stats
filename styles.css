@@ -1,8 +1,19 @@
-.githubStats {
-    content: "";
-    display: block;
-    position: relative;
-    width: 166%;
-    height: 150px;
-    background-position: bottom;
+.ProfileStats-header {
+  color: var(--header-secondary);
+  text-transform: uppercase;
+  font-family: var(--font-display);
+  line-height: 16px;
+  font-weight: 700;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.ProfileStats-github {
+  height: 124px;
+  background-position: -24px -50px !important;
+  margin-bottom: 16px;
+}
+
+.userPopout-2j1gM4 {
+  max-height: 66vh;
 }
